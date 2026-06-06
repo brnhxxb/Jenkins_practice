@@ -1,4 +1,3 @@
-  GNU nano 7.2                                    app.py
 from flask import Flask, jsonify
 import random
 
