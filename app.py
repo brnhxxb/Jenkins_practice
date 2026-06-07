@@ -1,5 +1,5 @@
 from flask import Flask
-
+#любой комментарий
 app = Flask(__name__)
 
 @app.route("/")
