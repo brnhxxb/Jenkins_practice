@@ -1,4 +1,3 @@
-NU nano 7.2                                  Jenkinsfile
 pipeline {
     agent any
 
